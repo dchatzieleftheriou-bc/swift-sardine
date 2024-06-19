@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MobileIntelligence",
-            url: "https://github.com/dchatzieleftheriou-bc/swift-sardine/releases/download/1.0.31/MobileIntelligence.xcframework.zip",
-            checksum: "49e9380e42850556c4ffb1809a91add3cc60b3619813214ea28192f5f003e5fe"
+            url: "https://github.com/dchatzieleftheriou-bc/swift-sardine/releases/download/1.0.34/MobileIntelligence.xcframework.zip",
+            checksum: "d02021c905a97426291699c7e365215fe1df9944c2024026bfc0a10d13447fa4"
         )
     ]
 )
